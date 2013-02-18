@@ -6,6 +6,8 @@ import java.util.Stack;
  * The Example demonstrate how we can implement a queue with the help of two
  * stacks.
  * 
+ * Example takes 5 elements and returns them in the order in which they are inserted.
+ * 
  * @author Srinivas
  * 
  */
