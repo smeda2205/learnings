@@ -1,5 +1,12 @@
 package com.learn.stack;
 
+/**
+ * Stack Data Structure Implementation
+ * 
+ * @author Srinivas
+ *
+ * @param <T>
+ */
 public class Stack<T> {
 	private T[] elements;
 	private int size;
