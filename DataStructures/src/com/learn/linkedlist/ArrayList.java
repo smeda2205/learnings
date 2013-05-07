@@ -1,5 +1,9 @@
 package com.learn.linkedlist;
 
+/**
+ * Sample Class To Learn ArrayList Implementation.
+ * 
+ * /
 public class ArrayList<E> {
 	private E elements[];
 	private int size;
